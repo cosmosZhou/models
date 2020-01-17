@@ -1,0 +1,12 @@
+{
+    "magnitude": "tiny",
+    "optimizer": "adam",
+    "cross_layer_parameter_sharing": true,
+    "factorization_on_word_embedding_only": false,
+    "symmetric_positional_embedding": true,
+    "diagnal_attention": false,
+    "batch_size": 1024,
+    "epoch": 1,
+    "cross_attention": 0,
+    "identity_paraphrase_deviation": 0.1
+}
